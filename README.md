@@ -22,9 +22,9 @@ By extracting data from satellite images using the MODIS, VIIRS, and IBAND satel
 
 Let's take a look at some of the raw satellite data we preprocessed
 
-![Fire Weather](fire-weather-data.png)
-![Weather](weather-data.png)
-![Misc](misc-data.png)
+![Fire Weather](github-data-sample/fire-weather-data.png)
+![Weather](github-data-sample/weather-data.png)
+![Misc](github-data-sample/misc-data.png)
 
 In this project, we utilized PyTorch and Torchvision to train a model aimed at predicting wildfire spread. The problem of wildfire spread is inherently both spatial and temporal. To address these complexities, we employed a hybrid approach combining Convolutional Neural Networks (CNNs) for spatial data processing and Long Short-Term Memory (LSTM) networks for temporal data processing. CNNs are adept at capturing spatial patterns and features from satellite images, while LSTMs are effective in handling temporal dependencies over sequential data. By carefully designing the architecture and adjusting the dimensions of layers and nodes, we ensured that the model could efficiently process large volumes of data. This combined approach allowed us to better capture the dynamic nature of wildfires, resulting in more accurate predictions of fire spread.
 
