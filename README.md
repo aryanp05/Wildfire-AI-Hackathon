@@ -5,7 +5,7 @@
 ## 💡 What was the Inspiration Behind Our Wildfire Path Predictor 🌳
 Wildfires are a massive issue, both globally and nationally. With recent changes across the world due to climate change, the quantity and magnitude of wildfires have skyrocketed around the world. Countries who've experienced little to no fires now see a plethora of forest-burning monsters. Just last year, Canada experienced one of its worst forest fires with the Quebec wildfire, having the damage spread to several parts of Canada and America. Several countries had to send help to assist Canada in fighting this fire. Climate change has resulted in Canada suffering many more wildfires that behave, move, and burn in very different patterns. With the growing quantity of fires, Canada's usually periodic fires have turned into a constant growth, and the industry is facing issues with a lack of human and financial resources to fight these fires.
 
-## Our Soltuion to Extinguish with AI!
+## Our Solution to Extinguish with AI!
 Introducing our Wildfire Path Predictor, an AI model that predicts the path wildfires in different regions will grow in! There are three key solution aspects
 - Using an AI model, we leveraged satellite data from MODIS, VIIRS, and IBAND to train our model to effectively and accurately predict paths to assist ground and ariel crew 🧯
 - By training on region-specific data, our model efficiently predicts the shifts in fire path trends caused by climate change 🌍
